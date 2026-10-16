@@ -119,4 +119,4 @@ next time `build_mcp()` runs; no separate registration step.
 
 ## Contributing, security, license
 
-See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md). Released under the [MIT License](LICENSE).
+See [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md). Released under the [MIT License](LICENSE).
